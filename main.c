@@ -15,11 +15,7 @@ void  vulnerable_function() {
 }
 
 int main() {
-
     vulnerable_function();
-
-
-
     //system("calc");
     //system("notepad");
     //system("code .");
