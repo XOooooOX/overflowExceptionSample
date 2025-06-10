@@ -21,3 +21,4 @@ int main() {
     //system("code .");
     return 0;
 }
+//msfvenom -p windows/exec CMD=calc.exe -f csharp

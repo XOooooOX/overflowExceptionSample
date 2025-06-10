@@ -27,3 +27,15 @@ test numbers:-------------------------------------------------------------------
 
     9 - D - 3 --> 3D9 => 4 byte => 8 byte 00003D9 => hex sign => \x00003D9
 --------------------------------------------------------------------------------------------
+
+file ha dar halate zakhire be byte hastand
+0 - 255
+00 34 24 89 112
+
+vaghti ba yek editor text yek file binary ro baz koni character haye ajib mibini
+�2@W� yyX+��p�w 
+
+dalil ine ke vaghti ba yek editory text baz mikoni nemidone in file text nist va say mikone har chizi ro be moadel
+ghabel chap tabdil kone vali khely az inha hata dar jadval ascii modal ghabel chap nadarn
+
+pas ma bayad ava file b
